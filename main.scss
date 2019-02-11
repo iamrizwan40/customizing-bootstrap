@@ -1,0 +1,9 @@
+// @import "variable-scss/variables";
+$jumbotron-padding: 4em;
+@import "node_modules/bootstrap/scss/bootstrap";
+.d-flex span{
+    height:20px;
+    line-height: 10px;
+    margin-left: 10px;
+    transform: translateY(14px)
+}
